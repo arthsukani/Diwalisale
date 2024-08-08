@@ -46,13 +46,17 @@ Customer Details (Gender, Age, City, State)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/diwali-sale-analytics.git
+git clone 
+
+https://github.com/arthsukani/Diwalisale
 
 Navigate to the project directory:
+
 
 cd diwali-sale-analytics
 
 Install the required dependencies:
+
 
 pip install -r requirements.txt
 
